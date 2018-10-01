@@ -26,7 +26,7 @@ module.exports = env => {
     // },
     entry: path.join(__dirname, 'src/index.js'),
     output: {
-      filename: 'react-tools.js',
+      filename: 'index.js',
       path: path.join(__dirname, 'dist'),
       libraryTarget: 'commonjs2',
     },

@@ -1,9 +1,9 @@
 {
-  "name": "react-tools",
-  "version": "1.0.0",
+  "name": "react-utility-tools",
+  "version": "0.0.1",
   "description": "A set of tools to help on react applications development",
   "main": "index.js",
-  "repository": "https://github.com/jmsstudio/react-tools.git",
+  "repository": "https://github.com/jmsstudio/react-utility-tools.git",
   "author": "jmsstudio",
   "license": "MIT",
   "scripts": {
